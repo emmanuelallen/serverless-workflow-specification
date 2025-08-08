@@ -14,6 +14,7 @@
         + [gRPC](#grpc-call)
         + [HTTP](#http-call)
         + [OpenAPI](#openapi-call)
+        + [A2A](#a2a-call)
     - [Do](#do)
     - [Emit](#emit)
     - [For](#for)
