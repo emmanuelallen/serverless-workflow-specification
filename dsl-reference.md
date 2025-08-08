@@ -520,7 +520,7 @@ do:
         method: message/send
         agentCard: https://example.com/.well-known/agent-card.json
         parameters:
-          message: 
+          message:
             parts:
               - kind: text
                 text: Generate the Q1 sales report.
